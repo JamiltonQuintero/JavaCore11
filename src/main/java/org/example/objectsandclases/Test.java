@@ -1,4 +1,4 @@
-package org.example;
+package org.example.objectsandclases;
 
 final class GreatStuff {  // Line 1
     public final static String APP_NAME = "GreatApp";

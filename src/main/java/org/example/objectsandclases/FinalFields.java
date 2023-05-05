@@ -1,4 +1,4 @@
-package org.example;
+package org.example.objectsandclases;
 
 class Constants {
     // Final static class variables are considered constants.
